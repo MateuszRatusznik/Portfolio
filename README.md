@@ -1,8 +1,8 @@
-# Portfolio
+#1 Portfolio
 [HTML, CSS, JavaScript] Basic javascript usage, making a timer using js
 https://mateuszratusznik.github.io/Portfolio/
 
-# Linux
+#2 Linux
 https://mateuszratusznik.github.io/Linux/
 
 #3 My Resume
